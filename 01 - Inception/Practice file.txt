@@ -1,0 +1,18 @@
+To use Practice.js:
+
+- Change div id in index.html
+
+<div id="root"></div>
+
+to 
+
+<div id="container"></div>
+
+
+- Change script src in index.html
+
+<script src="script.js"></script>
+
+to
+
+<script src="practice.js"></script>
